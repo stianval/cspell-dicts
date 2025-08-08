@@ -20,7 +20,7 @@
     "dictionaries": [],
     "languageSettings": [
         {
-            "languageId": "python",
+            "languageId": "python, pip-requirements",
             "dictionaries": ["python", "python-common"],
             "ignoreRegExpList": ["ignore_string_literal_prefix"],
             "patterns": [
